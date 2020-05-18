@@ -1,5 +1,4 @@
 name: CI for releases
-
 on:
     push:
         branches:
